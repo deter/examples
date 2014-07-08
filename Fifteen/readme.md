@@ -1,3 +1,6 @@
+Příklad, jak používat komponenty
+
+
 Game Fifteen (Nette Framework example)
 --------------------------------------
 
